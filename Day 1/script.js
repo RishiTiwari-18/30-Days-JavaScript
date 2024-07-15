@@ -46,7 +46,16 @@
 // console.log(typeof(friends));
 
 
-//! Activity 4: Reassigning Variables
+// //! Activity 4: Reassigning Variables
+// // Task 5
+// let myAge = 20; 
+// console.log(myAge);
+// myAge = 21;
+// console.log(myAge);
+
+
+
+
 
 
 
