@@ -66,11 +66,39 @@ console.log(myAge);
 
 //! Activity 5: Understanding const
 // Task 6
-const z = 11
+/* const z = 11
 console.log(z);
 z = 50
-console.log(z);
+console.log(z); */
 //? error: When you declare a variable with const, it creates an immutable binding. This means the variable cannot be reassigned to a different value.
+
+
+
+
+//! Featured Request
+let string = "Something..."
+let number = 11
+let boolean = false;
+let empty = null;   // can't declare a variable with name null because its a reserved keyword
+let nothing = undefined;  // again an error will be shown but its not a reserved keyword
+let array = [1, 2, 3]
+let object = { object1: 1, object2: 2, object3: 3}
+
+console.log(`${string} is a typeOf ${typeof(string)}`);
+console.log(`${number} is a typeOf ${typeof(number)}`);
+console.log(`${boolean} is a typeOf ${typeof(boolean)}`);
+console.log(`${empty} is a typeOf ${typeof(empty)}`);
+console.log(`${nothing} is a typeOf ${typeof(nothing)}`);
+console.log(`${array} is a typeOf ${typeof(array)}`);
+console.log(`${object} is a typeOf ${typeof(object)}`);
+
+
+//! Req 2
+
+
+
+
+
 
 
 
