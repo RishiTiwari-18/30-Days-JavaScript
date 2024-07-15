@@ -1,3 +1,13 @@
+ //** Before going through the task I would suggest to comment the whole code in the file and then uncomment the desired task */
+
+
+
+
+
+
+
+
+
 //! Activity 1: Variable Declaration
 // Task 1
 var a = 21;
@@ -95,15 +105,7 @@ console.log(`${object} is a typeOf ${typeof(object)}`);
 
 //! Req 2
 
-
-
-
-
-
-
-
-
-
-
-
-
+let value1 = "anything"
+console.log(value1);
+value1 = "nothing"
+console.log(value1);
