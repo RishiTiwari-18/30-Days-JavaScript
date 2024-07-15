@@ -45,3 +45,9 @@
 // let number = 11;
 // number -= 22;
 // console.log(number);
+
+
+//? Task 8
+let num1 = 4;
+let num2 = 5;
+console.log(num1 >  num2);
