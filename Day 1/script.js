@@ -105,7 +105,17 @@ console.log(`${object} is a typeOf ${typeof(object)}`);
 
 //! Req 2
 
+//? Variables declared with let are mutable, meaning you can reassign their values.
+
 let value1 = "anything"
 console.log(value1);
 value1 = "nothing"
 console.log(value1);
+
+
+//? Variables declared with const are immutable in terms of reassignment. Once you assign a value to a const variable, you cannot change it.
+
+// const num1 = 1;
+// console.log(num1);
+// num1 = 3
+// console.log(num1); // Error Obviously.
