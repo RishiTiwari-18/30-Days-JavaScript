@@ -71,4 +71,45 @@
 // //The == operator in JavaScript performs loose equality. It converts the variable values to the same type before comparison (a process known as type coercion). On the other hand, the === operator (also called strict equality or triple equals) compares both the values and the data types of the operands directly. It does not perform any type conversion
 
 
-//? Task 11
+// //? Task 11
+
+// let some = 44
+// let some2 = "something"
+// console.log(some && some2);
+
+
+// //? Task 12
+
+// let some = 44
+// let some2 = "something"
+// console.log(some2 || some);
+
+
+// //? Task 13
+
+// let isTrue = true
+// let isFalse = !isTrue
+// console.log(isFalse);
+
+
+// //? Task 14
+
+// let age = 21
+// let canVote = age >= 18 ? "can vote" : "cannot vote"
+// console.log(canVote);
+
+
+// //! Requests
+
+// //? 1
+
+// const calculation = (a, b) => {
+//         console.log(`
+//             ${a+b}
+//             ${a-b}
+//             ${a*b}
+//             ${a/b}
+//             ${a%b}`);
+// }
+
+// calculation(4, 5)
