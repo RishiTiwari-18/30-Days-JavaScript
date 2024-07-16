@@ -113,3 +113,16 @@
 // }
 
 // calculation(4, 5)
+
+
+// //? 3
+
+// // let num = -33
+// // let numIs = num >=0 ?  "The number is positive" : "The number in negative"
+// // console.log(numIs);
+
+// const num = (e) => {
+//         let numIs = e >= 0 ? "The number is positive" : "The number is negative"
+//         console.log(numIs);
+// }
+// num(4)
