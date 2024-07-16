@@ -14,3 +14,16 @@
 // }
 
 // check(6)
+
+
+// //? Task 2
+
+// const age = (e) => {
+//     if (e >= 18) {
+//         console.log("You are eligible to vote");
+//     }else{
+//         console.log("You cannot vote");
+//     }
+// }
+
+// age(9)
