@@ -15,7 +15,6 @@
 
 // check(6)
 
-
 // //? Task 2
 
 // const age = (e) => {
@@ -36,10 +35,49 @@
 //             console.log("c is the largest number");
 //         }else{
 //             console.log("b is the largest number");
-//     }
+//       }
 //     }else{
 //         console.log("a is the largest number");
 //     }
 // }
 
 // numbers(13, 16, 8)
+
+
+//? Task 4
+
+const day = (e) => {
+    switch (e) {
+        case 1:
+            console.log("Monday");
+            break;
+
+        case 2:
+            console.log("Tuesday");
+            break;
+        case 3:
+            console.log("Wednesday");
+            break;
+
+        case 4:
+            console.log("Thursday");
+            break;
+
+        case 5:
+            console.log("Friday");
+            break;
+
+        case 6:
+            console.log("Saturday");
+            break;
+
+        case 7:
+            console.log("Sunday");
+            break;
+        default:
+            console.log("You serious!");
+            break;
+    }
+}
+
+day(7)
