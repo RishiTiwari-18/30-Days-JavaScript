@@ -27,3 +27,19 @@
 // }
 
 // age(9)
+
+// //? Task 3
+
+// const numbers = (a, b, c) => {
+//     if(a < b){
+//         if(b < c){
+//             console.log("c is the largest number");
+//         }else{
+//             console.log("b is the largest number");
+//     }
+//     }else{
+//         console.log("a is the largest number");
+//     }
+// }
+
+// numbers(13, 16, 8)
