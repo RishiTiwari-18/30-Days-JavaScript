@@ -81,3 +81,35 @@
 // }
 
 // day(7)
+
+
+// //? Task 5
+
+
+// let score = (e) => {
+// switch (true) {
+//     case e > 90:
+//         console.log("A");
+//         break;
+//     case e > 80:
+//         console.log("B");
+//         break;
+//     case e > 70:
+//         console.log("C");
+//         break;
+//     case e > 60:
+//         console.log("D");
+//         break;
+//     default:
+//         console.log("F");
+//         break;
+// }}
+
+// score(86)
+
+
+// //? Task 6
+
+// const num = -59
+// const sol = num % 2 == 0 ? "Number is even" : "Number is odd"
+// console.log(sol);
