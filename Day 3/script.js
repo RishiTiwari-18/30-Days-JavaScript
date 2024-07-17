@@ -113,3 +113,16 @@
 // const num = -59
 // const sol = num % 2 == 0 ? "Number is even" : "Number is odd"
 // console.log(sol);
+
+
+// //? Task 7
+
+// function year(e){
+//     if(e % 4 === 0 && e % 100 !== 0 || e % 400 === 0){
+//         console.log("It's a leap year");
+//     }else{
+//         console.log(`${e} is not a leap year`);
+//     }
+// }
+
+// year(2032)
