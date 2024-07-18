@@ -36,10 +36,21 @@
 
 // //? Task 4
 
-// const concat = () => {
+// function concat(){
 //     let str1 = "Hello "
 //     let str2 = "World!"
 //     console.log(str1 + str2);
 // }
 
 // concat()
+
+
+// //? Task 5
+
+// const sum = (a, b) => {
+//     console.log(a + b);
+// }
+
+// sum( 4, 6)
+
+
