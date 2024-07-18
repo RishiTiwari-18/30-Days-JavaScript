@@ -9,3 +9,13 @@
 // }
 
 // calculation(3)
+
+
+// //? Task 2
+
+// function calculation(num){
+//     num *= num
+//     console.log(num);
+// }
+
+// calculation(5)
