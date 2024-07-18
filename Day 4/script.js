@@ -23,3 +23,42 @@
 // }
 
 
+// //? Task 4
+
+// let num = 10;
+// while(num >= 1){
+//     console.log(num);
+//     num--
+// }
+
+
+// //? Task 5
+
+// let num = 1
+// do {
+//     console.log(num);
+//     num++
+// } while (num <= 5);
+
+
+// //? Task 6
+// function calculation(num){
+// let factorial = 1
+// let ans = 1
+
+// do {
+//     ans *= factorial
+//     factorial++
+
+// } while (factorial <= num);
+// console.log(ans);
+// }
+
+// calculation(4)
+
+
+ 
+    
+
+
+
