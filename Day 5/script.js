@@ -81,19 +81,27 @@
 // greet("Rishi", 20)
 
 
-//? Task 9
+// //? Task 9
 
-function repeatFunction(func , n){
-    for( i = 0; i <= n; i++){
-        func();
-    }
-}
+// function repeatFunction(func , n){
+//     for( i = 1; i <= n; i++){
+//         func();
+//     }
+// }
 
-function greet(){
-    console.log("hello!");
-}
+// function greet(){
+//     console.log("hello!");
+// }
 
-repeatFunction(greet ,5 )
+// repeatFunction(greet ,5 )
+
+
+// //? Task 10
+
+// function something(fun1, fun2, val){
+//     // sorry
+//! pending
+// }
 
 
 
