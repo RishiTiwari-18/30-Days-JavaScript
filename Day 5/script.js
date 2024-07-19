@@ -54,3 +54,48 @@
 // sum( 4, 6)
 
 
+// //? Task 6
+
+// let work = "hello"
+// let char= "*"
+// let includChar  = work.includes(char)
+// console.log(includChar);
+
+
+// //? Task 7
+// function product(num1, num2){
+//     console.log(num1 * num2);
+// }
+
+// product(34.5, 2)
+
+
+// //? Task 8
+
+// const greet = (a , b) => {
+//     let name = a
+//     let age = b;
+//     console.log(`Hello! 🌟 My name is ${name}, and I’m ${age} years old. It’s great to connect with you!`);
+// }
+
+// greet("Rishi", 20)
+
+
+//? Task 9
+
+function repeatFunction(func , n){
+    for( i = 0; i <= n; i++){
+        func();
+    }
+}
+
+function greet(){
+    console.log("hello!");
+}
+
+repeatFunction(greet ,5 )
+
+
+
+
+
