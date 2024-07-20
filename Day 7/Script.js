@@ -7,3 +7,6 @@
 
 // console.log(books.Title,);
 // console.log(books.Autor);
+
+
+//? Task 3
