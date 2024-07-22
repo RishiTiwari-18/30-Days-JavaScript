@@ -50,7 +50,16 @@
 // console.log(sum(33, 33, 33));
 
 
-//? Task 7
+// //? Task 7
+
+// let parem = (a , b = 10) => {
+//    console.log(a * b);
+// }
+
+// parem(11)
+// parem(11, 11)
+
+
 
 
 
