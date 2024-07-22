@@ -60,6 +60,35 @@
 // parem(11, 11)
 
 
+// //? Task 8
+
+// const person = {
+//     name: "someone",
+//     age:20,
+//     wish(){
+//         console.log(`hey ${this.name} best wishes for you to turn ${this.age}` );
+//     }
+// }
+
+// person.wish()
+
+
+// //? Task 9
+
+// function person(name, age){
+//     let naam = name
+//     let aayu = age
+//     const someone = {
+//         name: [naam],
+//         age: [aayu]
+//     }
+
+//     console.log(`my name is ${someone.name}, my age is ${someone.age}`);
+// }
+
+// person("Rishi", 20)
+
+
 
 
 
