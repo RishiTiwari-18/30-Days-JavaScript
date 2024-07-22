@@ -35,6 +35,23 @@
 // console.log(Autor);
 
 
-//? Task 5
+// //? Task 5
+
+// let arr = [44, 44, 37, 38, 29]
+// let newArr = [...arr, 100, 200]
+// console.log(newArr);
+
+
+// //? Task 6
+
+// function sum(...num){
+//     return num.reduce((acc, sum) =>  acc + sum , 0) 
+// }
+// console.log(sum(33, 33, 33));
+
+
+//? Task 7
+
+
 
 
