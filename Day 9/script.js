@@ -1,2 +1,3 @@
-let bhai = document.querySelector("bhai")
-bhai.remove
+let greet = document.querySelector(".greet")
+greet.textContent = "hieee"
+
