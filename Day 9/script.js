@@ -23,3 +23,9 @@ let ul = document.querySelector("ul")
 let newLi = document.createElement("li")
 newLi.textContent = "new li"
 ul.appendChild(newLi)
+
+
+//? Task 5
+
+let removeElem = document.querySelector("p")
+removeElem.remove()
