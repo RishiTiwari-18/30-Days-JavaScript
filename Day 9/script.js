@@ -29,3 +29,19 @@ ul.appendChild(newLi)
 
 let removeElem = document.querySelector("p")
 removeElem.remove()
+
+
+//? Task 6
+
+let elem = document.querySelector(".elem")
+elem.removeChild(elem.lastElementChild)
+
+
+//? Task 7
+
+let img = document.querySelector("img")
+img.src = "https://cdn.photographylife.com/wp-content/uploads/2014/09/Nikon-D750-Image-Samples-2.jpg"
+
+
+
+//! promises ke bare mai pdh lena gandu
